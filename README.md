@@ -41,6 +41,6 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 
 <br />
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/Facebook.png">](https://www.linkedin.com/in/shimul-zahan-b5035427b/)[<img height="75" src="https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/Linkedin.png">](https://www.linkedin.com/in/shimul-zahan-b5035427b/)
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/Facebook.png">](https://www.facebook.com/shimul.zahan.9)[<img height="75" src="https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/Linkedin.png">](https://www.linkedin.com/in/shimul-zahan-b5035427b/)
 
 <br />
