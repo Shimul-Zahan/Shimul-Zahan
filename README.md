@@ -36,18 +36,9 @@
 <a href="https://app.daily.dev/shimulzahan"><img src="https://api.daily.dev/devcards/56504c5460ff471ea57f1d97873ef015.png?r=wvf" width="400" alt="Shimul Zahan's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### 🌱 I’m exploring - NextJS and  socket.io 
+### 👯 I’m looking - To collaborate on TukiTaki-mart ecommerce site projects. 
+### ⚡ Fun fact - Coding coding and coding and again coding.
 
 
 <br />
-
-## :book: My recent blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Common interview questions that you need to know as a junior JavaScript developer.](https://dev.to/mirhussain/common-interview-questions-that-you-need-to-know-as-a-junior-javascript-developer-29a6)
-- [What the heck is JSX in React.](https://dev.to/mirhussain/what-the-heck-is-jsx-in-react-3f0a)
-- [A cleaner approach to write JavaScript &lpar;Bonus tips in the end.&rpar;](https://dev.to/mirhussain/a-cleaner-approach-to-write-javascript-bonus-tips-in-the-end-58ng)
-<!-- BLOG-POST-LIST:END -->
