@@ -9,7 +9,7 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 
 <br />
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Shimul-Zahan&theme=nightowl" alt="Shimul-Zahan streak badge"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Shimul-Zahan&theme=nightowl" alt="Shimul-Zahan streak badge"/>
 </p>
 
 ## :computer: My Skilled Technologies
