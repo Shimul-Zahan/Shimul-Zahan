@@ -31,6 +31,12 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shimul-Zahan&theme=tokyonight" alt="Profile details badge"/>
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shimul-Zahan&theme=tokyonight" alt="Top languages by repo badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shimul-Zahan&theme=tokyonight" alt="General stats badge"/>
+</p>
+
 <br>
 
 #### 🌱 I’m exploring - NextJS and socket.io
