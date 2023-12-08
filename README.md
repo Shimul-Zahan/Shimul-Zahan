@@ -1,12 +1,12 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
-</a>
+<h1 align="center">Hi 👋, I'm Shimul Zahan</h1>
+<h3 align="center">A Passionate Beginner's Guide to Full-Stack Development</h3>
 
+![alt text](https://raw.githubusercontent.com/AlgoWebBot/AlgoWebBot/main/Purple%20and%20Blue%20Neon%20%20Gamer%20%20Youtube%20Banner.png "Carpentries Logo") 
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=AlgoWebBot&theme=outrun&card_width=500" />
 </p>
 
 ## :mailbox: Reach me out
