@@ -39,6 +39,5 @@
 ### 🌱 I’m exploring - NextJS and  socket.io 
 ### 👯 I’m looking - To collaborate on TukiTaki-mart ecommerce site projects. 
 ### ⚡ Fun fact - Coding coding and coding and again coding.
-
-
 <br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlgoWebBot&theme=outrun)
