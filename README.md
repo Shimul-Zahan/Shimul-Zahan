@@ -31,6 +31,7 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shimul-Zahan&theme=tokyonight" alt="Profile details badge"/>
 </p>
+<br>
 ### 🌱 I’m exploring - NextJS and  socket.io 
 ### 👯 I’m looking - To collaborate on TukiTaki-mart ecommerce site projects. 
 ### ⚡ Fun fact - Coding coding and coding and again coding.
