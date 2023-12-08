@@ -33,9 +33,9 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 </p>
 <br>
 
-### 🌱 I’m exploring - NextJS and socket.io
-### 👯 I’m looking - To collaborate on TukiTaki-mart ecommerce site projects. 
-### ⚡ Fun fact - Coding coding and coding and again coding.
+#### 🌱 I’m exploring - NextJS and socket.io
+#### 👯 I’m looking - To collaborate on TukiTaki-mart ecommerce site projects. 
+#### ⚡ Fun fact - Coding coding and coding and again coding.
 
 ## :mailbox: Reach me out
 
