@@ -1,9 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shimul Zahan</h1>
+<h3 align="center">A Passionate Beginner's Guide to Full-Stack Development</h3>
 
-<!--
-**Shimul-Zahan/Shimul-Zahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](https://raw.githubusercontent.com/AlgoWebBot/AlgoWebBot/main/Purple%20and%20Blue%20Neon%20%20Gamer%20%20Youtube%20Banner.png "Carpentries Logo") 
 
-Here are some ideas to get you started:
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AlgoWebBot&theme=outrun&card_width=500" alt="GitHub Streak" /></a>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=algowebbot&label=Profile%20views&color=0e75b6&style=flat" alt="algowebbot" /> </p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
