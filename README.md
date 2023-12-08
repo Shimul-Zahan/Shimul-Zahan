@@ -41,5 +41,5 @@
 ### ⚡ Fun fact - Coding coding and coding and again coding.
 <br />
 <p align="center">
-  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlgoWebBot&theme=outrun" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shimul-Zahan&theme=tokyonight" alt="Profile details badge"/>
 </p>
