@@ -25,8 +25,27 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
   </a>
 </p>
 
+## 🕹️ Current Overview
+- 🌱 I’m exploring - **NextJS, socket.io and Mongoose**
+- 💬 Let's talk about **React, Node Js, Tailwind CSS, Daisy UI**
+- 📧 How to reach me **shimulzahan636@gmail.com**
+- 👯 I’m looking - **To collaborate on TukiTaki-mart ecommerce site projects** 
+- ⚡ Fun fact - **Coding coding and coding and again coding**
 
-## :eyes: Take a look
+ ## 🚀 Latest Projects
+
+###  Brand Shop 🏕️
+
+  <ul>
+  <li><strong>Description:</strong>  This is a e-commerce website.  Here the products of various brands have been shown.  Different brands can add their products.  And he can delete and update them later.  Users can see the products of their choice.  You can buy it at will.  The products he buys will be added to the add to card section.</li>
+  <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, Express.js, MongoDB, and Firebase </li>
+  <li>
+    <a href="https://github.com/Shimul-Zahan/brand-shop-frontend">Client side</a> | <a href="https://github.com/Shimul-Zahan/brand-shop-backend">Server side</a> | <a href="https://brand-shop-3a60e.web.app">Live site link</a>
+  </li>
+</ul>
+
+
+## :eyes: Take a look in my GitHub Summary
 <br />
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shimul-Zahan&theme=tokyonight" alt="Profile details badge"/>
@@ -38,10 +57,6 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 </p>
 
 <br>
-
-#### 🌱 I’m exploring - NextJS and socket.io
-#### 👯 I’m looking - To collaborate on TukiTaki-mart ecommerce site projects. 
-#### ⚡ Fun fact - Coding coding and coding and again coding.
 
 ## :mailbox: Reach me out
 .<div align="center">[<img height="75" src="https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/Facebook.png">](https://www.facebook.com/shimul.zahan.9)[<img height="75" src="https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/Linkedin.png">](https://www.linkedin.com/in/shimul-zahan-b5035427b/)
