@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shimul Zahan</h1>
+
 
 ![alt text](https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/MernStackBanner(2).png "Carpentries Logo") 
 
@@ -33,8 +33,31 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 - ⚡ Fun fact - **Coding coding and coding and again coding**
 
  ## 🚀 Latest Projects
+ 
+ ###  Memory Matrimony BD 👫
 
-###  Brand Shop 🏕️
+  <ul>
+  <li><strong>Description:</strong>  This is a partner search site. Here a boy or girl can find a partner of their choice. This site has separate dashboard for both user and admin.
+There is also a system to take premium membership, so if you are not a premium member, there is also a system to request to take the number of your favorite person by paying money.
+This site has an admin in charge of all duties.</li>
+  <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, Express.js, MongoDB, and Firebase, Stripe </li>
+  <li>
+    <a href="https://github.com/Shimul-Zahan/Matrimony-frontend">Client side</a> | <a href="https://github.com/Shimul-Zahan/matrimony-backend">Server side</a> | <a href="https://memory-matrimony-bd.surge.sh/">Live site link</a>
+  </li>
+</ul>
+
+###  Feeding Neighbour 📦
+
+  <ul>
+  <li><strong>Description:</strong>It is a food sharing site where a user can share his/her sold food and if one wants to pay some money, one can take it for free or if one wants to eat it for free.
+Here also the donor can change all the updates of his food.</li>
+  <li><strong>Technology used:</strong> React.js, JavaScript, Tailwind CSS, Daisy UI, Express.js, MongoDB, and Firebase, Axios, Tanstack Query, React Table. </li>
+  <li>
+    <a href="https://github.com/Shimul-Zahan/community-food-shareing">Client side</a> | <a href="https://github.com/Shimul-Zahan/community-food-shareing-backend">Server side</a> | <a href="https://terrific-territory.surge.sh/">Live site link</a>
+  </li>
+</ul>
+
+###  Unity Shop 🏕️
 
   <ul>
   <li><strong>Description:</strong>  This is a e-commerce website.  Here the products of various brands have been shown.  Different brands can add their products.  And he can delete and update them later.  Users can see the products of their choice.  You can buy it at will.  The products he buys will be added to the add to card section.</li>
