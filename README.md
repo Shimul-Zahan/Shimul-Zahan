@@ -17,11 +17,11 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,nextjs,redux,socket.io" />
     <br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,nestjs" />
     <br>
-    <img src="https://skillicons.dev/icons?i=firebase,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=firebase,c,cpp,php,laravel" />
   </a>
 </p>
 
