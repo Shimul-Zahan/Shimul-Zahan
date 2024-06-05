@@ -23,7 +23,7 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
     <br>
     <img src="https://skillicons.dev/icons?i=firebase,c,cpp,php" />
     <br />
-    <img src="https://skillicons.dev/icons?i=,laravel,redux" />
+    <img src="https://skillicons.dev/icons?i=figma,laravel,redux" />
   </a>
 </p>
 
