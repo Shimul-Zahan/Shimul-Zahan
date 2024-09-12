@@ -1,6 +1,6 @@
 
 
-![alt text](https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/MernStackBanner(2).png "Carpentries Logo") 
+// ![alt text](https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/MernStackBanner(2).png "Carpentries Logo") 
 
 # 💫 About Me:
 Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, and JavaScript for Frontend | Comfortable with Backend Technologies: Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment | Eager to Contribute and Learn in a Dynamic Development Environment
