@@ -1,4 +1,5 @@
 # 💫 About Me:
+Want to be ML & AI Master.
 Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, and JavaScript for Frontend | Comfortable with Backend Technologies: Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment | Eager to Contribute and Learn in a Dynamic Development Environment
 
 ## :chart_with_upwards_trend: Current Stats
