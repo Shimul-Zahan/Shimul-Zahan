@@ -49,4 +49,5 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 .<div align="center">[<img height="75" src="https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/Facebook.png">](https://www.facebook.com/shimul.zahan.9)[<img height="75" src="https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/Linkedin.png">](https://www.linkedin.com/in/shimul-zahan-b5035427b/)
 </div>
 <br />
+![Visitor Count](https://profile-counter.glitch.me/Shimul-Zahan/count.svg)
 [![alt text](https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/MernStackBanner(2).png "Carpentries Logo") ]
