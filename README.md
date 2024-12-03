@@ -51,3 +51,10 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 <br />
 ![Visitor Count](https://profile-counter.glitch.me/Shimul-Zahan/count.svg)
 [![alt text](https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/MernStackBanner(2).png "Carpentries Logo") ]
+
+[![Check out Shimul-Zahan's profile on stardev.io](https://stardev.io/developers/Shimul-Zahan/badge/languages/global.svg)](https://stardev.io/developers/Shimul-Zahan)
+
+[![Check out Shimul-Zahan's profile on stardev.io](https://stardev.io/developers/Shimul-Zahan/badge/languages/country.svg)](https://stardev.io/developers/Shimul-Zahan)
+
+
+[![Check out Shimul-Zahan's profile on stardev.io](https://stardev.io/developers/Shimul-Zahan/badge/languages/locality.svg)](https://stardev.io/developers/Shimul-Zahan)
