@@ -52,9 +52,13 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 ![Visitor Count](https://profile-counter.glitch.me/Shimul-Zahan/count.svg)
 [![alt text](https://raw.githubusercontent.com/Shimul-Zahan/Shimul-Zahan/main/MernStackBanner(2).png "Carpentries Logo") ]
 
-[![Check out Shimul-Zahan's profile on stardev.io](https://stardev.io/developers/Shimul-Zahan/badge/languages/global.svg)](https://stardev.io/developers/Shimul-Zahan)
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 
-[![Check out Shimul-Zahan's profile on stardev.io](https://stardev.io/developers/Shimul-Zahan/badge/languages/country.svg)](https://stardev.io/developers/Shimul-Zahan)
+[![Global Badge](https://stardev.io/developers/Shimul-Zahan/badge/languages/global.svg)](https://stardev.io/developers/Shimul-Zahan)
 
+[![Country Badge](https://stardev.io/developers/Shimul-Zahan/badge/languages/country.svg)](https://stardev.io/developers/Shimul-Zahan)
 
-[![Check out Shimul-Zahan's profile on stardev.io](https://stardev.io/developers/Shimul-Zahan/badge/languages/locality.svg)](https://stardev.io/developers/Shimul-Zahan)
+[![Locality Badge](https://stardev.io/developers/Shimul-Zahan/badge/languages/locality.svg)](https://stardev.io/developers/Shimul-Zahan)
+
+</div>
+
