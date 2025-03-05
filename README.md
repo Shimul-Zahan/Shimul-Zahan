@@ -2,7 +2,7 @@
 Want to be ML & AI Master.
 Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, and JavaScript for Frontend | Comfortable with Backend Technologies: Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment | Eager to Contribute and Learn in a Dynamic Development Environment
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Shimul-Zahan&color=blueviolet)
 
 ## :chart_with_upwards_trend: Current Stats
 
