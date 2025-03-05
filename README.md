@@ -2,6 +2,8 @@
 Want to be ML & AI Master.
 Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, and JavaScript for Frontend | Comfortable with Backend Technologies: Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment | Eager to Contribute and Learn in a Dynamic Development Environment
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -12,24 +14,29 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 ## :computer: My Skilled Technologies
 
 <br>
+
+<!-- Start of skill icons section -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,nextjs" />
+  <a href="https://skillicons.dev"> <!-- Link to the skillicons website -->
+
+    <!-- Frontend technologies -->
+    <!-- <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,nextjs" /> -->
     <br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,nestjs" />
+
+    <!-- Backend technologies -->
+    <!-- <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,nestjs" /> -->
     <br>
-    <img src="https://skillicons.dev/icons?i=firebase,c,cpp,php" />
+
+    <!-- Programming languages & Firebase -->
+    <!-- <img src="https://skillicons.dev/icons?i=firebase,c,cpp,php" /> -->
     <br />
-    <img src="https://skillicons.dev/icons?i=figma,laravel,redux" />
+
+    <!-- UI/State management & Laravel -->
+    <!-- <img src="https://skillicons.dev/icons?i=figma,laravel,redux" /> -->
+
   </a>
 </p>
-
-## 🕹️ Current Overview
-- 🌱 I’m exploring - **NextJS, socket.io and Mongoose**
-- 💬 Let's talk about **React, Node Js, Tailwind CSS, Daisy UI**
-- 📧 How to reach me **shimulzahan636@gmail.com**
-- 👯 I’m looking - **To collaborate on TukiTaki-mart ecommerce site projects** 
-- ⚡ Fun fact - **Coding coding and coding and again coding**
+<!-- End of skill icons section -->
 
 
 ## :eyes: Take a look in my GitHub Summary
