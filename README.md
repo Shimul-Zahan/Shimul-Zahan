@@ -14,29 +14,17 @@ Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, a
 ## :computer: My Skilled Technologies
 
 <br>
-
-<!-- Start of skill icons section -->
 <p align="center">
-  <a href="https://skillicons.dev"> <!-- Link to the skillicons website -->
-
-    <!-- Frontend technologies -->
-    <!-- <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,nextjs" /> -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,nextjs" />
     <br>
-
-    <!-- Backend technologies -->
-    <!-- <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,nestjs" /> -->
+    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,nestjs" />
     <br>
-
-    <!-- Programming languages & Firebase -->
-    <!-- <img src="https://skillicons.dev/icons?i=firebase,c,cpp,php" /> -->
+    <img src="https://skillicons.dev/icons?i=firebase,c,cpp,php" />
     <br />
-
-    <!-- UI/State management & Laravel -->
-    <!-- <img src="https://skillicons.dev/icons?i=figma,laravel,redux" /> -->
-
+    <img src="https://skillicons.dev/icons?i=figma,laravel,redux" />
   </a>
 </p>
-<!-- End of skill icons section -->
 
 
 ## :eyes: Take a look in my GitHub Summary
